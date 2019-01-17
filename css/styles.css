@@ -1,3 +1,7 @@
 .equilateral, .isosceles, .scalene, .notTriangle {
   display: none;
 }
+
+.help-block{
+  display: none;
+}
